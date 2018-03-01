@@ -11,7 +11,8 @@ Austindoody20@gmail.com
 •	Certifications: OSHA 
 
 # Education 
-o	Daniel Webster College, Nashua, New Hampshire 
+o	Daniel Webster College, Nashua, New Hampshire
+
 o	Southern New Hampshire University, Manchester, New Hampshire
 Bachelor of Science: Game Design and Development | Anticipated Graduation: 2018 
 GPA: 3.20
