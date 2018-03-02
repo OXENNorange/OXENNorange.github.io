@@ -1,6 +1,6 @@
 # Austin Doody
 
-Austindoody20@gmail.com                                    Cell Phone: 508-566-1129 
+Austindoody20@gmail.com         Cell Phone: 508-566-1129 
 
 # Summary 
 •	Game Design and Development major with graphic experience applied in mobile app development
