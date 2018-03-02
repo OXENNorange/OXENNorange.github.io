@@ -41,7 +41,6 @@ Information Technology Helpdesk | Southern New Hampshire University, NH | 2017-2
 o	Assist students and faculty connect devices to the network
 o	Repair minor damages to electronic devices 
 
-
 Avwatch I.T. Intern | Plymouth Airport, Plymouth MA | 2013-2014 
 o	Inventory organization 
 o	Computer maintenance 
