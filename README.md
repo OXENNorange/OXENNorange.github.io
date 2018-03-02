@@ -38,18 +38,26 @@ o	Attended meetings and contributed to customized app pitch, participated in pro
 Information Technology Helpdesk | Daniel Webster College, Nashua, NH | 2014-2017 
 
 Information Technology Helpdesk | Southern New Hampshire University, NH | 2017-2018
+
 o	Assist students and faculty connect devices to the network
+
 o	Repair minor damages to electronic devices 
 
 Avwatch I.T. Intern | Plymouth Airport, Plymouth MA | 2013-2014 
+
 o	Inventory organization 
+
 o	Computer maintenance 
 
 # Activities 
 Daniel Webster College 
+
 o	Men’s Lacrosse | 2014-2016 
+
 o	Global Game Jam | 2016
 
 Southern New Hampshire University
+
 o	Radio SNHU club | 2018
+
 o	Global Game Jam | 2018
