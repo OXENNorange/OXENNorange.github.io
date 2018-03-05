@@ -1,8 +1,3 @@
-# Austin Doody
-
-Austindoody20@gmail.com         Cell Phone: 508-566-1129 
-https://www.linkedin.com/in/austin-doody-583183149/
-
 # Summary 
 •	Game Design and Development major with graphic experience applied in mobile app development
 •	Adept technically and conceptually in computer maintenance and hardware
@@ -12,7 +7,6 @@ https://www.linkedin.com/in/austin-doody-583183149/
 
 # Education 
 o	Daniel Webster College, Nashua, New Hampshire
-
 o	Southern New Hampshire University, Manchester, New Hampshire
 Bachelor of Science: Game Design and Development | Anticipated Graduation: 2018 
 GPA: 3.63
