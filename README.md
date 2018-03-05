@@ -1,3 +1,6 @@
+[LinkedIn](https://www.linkedin.com/in/austin-doody-583183149/)
+[logo](OXENN1.png)
+
 # Summary 
 •	Game Design and Development major with graphic experience applied in mobile app development
 •	Adept technically and conceptually in computer maintenance and hardware
